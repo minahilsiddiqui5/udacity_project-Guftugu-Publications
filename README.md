@@ -1,4 +1,4 @@
-# Guftugu Publications Book Data Wrangling
+# Guftugu Publications
 
 ## Project Objective
 This project aims to collect and clean book data from two different sources: the Guftugu Publications website and Kaggle datasets. The goal is to create a comprehensive dataset of books for further analysis.
